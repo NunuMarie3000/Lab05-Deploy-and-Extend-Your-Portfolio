@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Storm O'Bryant. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Storm O'Bryant.:) I'm currently a student at Code Crew Memphis working with newest front-end frameworks and libraries like React, Bootstrap, and Express. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -13,7 +13,7 @@
       {
         "title": "Horned Beast",
         "startDate": "2022",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application renders beasts and allows user to search. Edit images",
+        "description": "The most recent application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application renders different horned beasts and allows user to search by horn count.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -21,23 +21,19 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
+            "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
+            "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "JavaScript?"
           }
         ]
       },
       {
-        "title": "edit",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Stormy Music-Music Player",
+        "startDate": "2022",
+        "description": "My solo project for the end of Code 201 course at Code School. The user has 5 different genres/25 different songs they can choose from. I created all elements(including audio) so that I could customize it to my liking. I earned A grade :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -45,8 +41,12 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "Html5"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "CSS3"
           },
           {
             "class": "devicon-javascript-plain",
@@ -65,16 +65,16 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-nodejs-plain",
+            "name": "Express + Node"
           }
         ]
       }
@@ -93,18 +93,17 @@
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Node",
+          "Express",
+          "MongoDB"
         ]
       },
       {
         "company": "Awesome Company",
         "title": "Intern",
-        "years": "near future",
+        "years": "Near future",
         "mainTech": [
-          "React 7/8"
+          "React"
         ],
         "technologies": [
           "RxJS",

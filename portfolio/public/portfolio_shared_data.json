@@ -7,11 +7,6 @@
           "name": "github",
           "url": "https://github.com/NunuMarie3000",
           "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
         }
       ],
       "image": "myProfile.jpg"
@@ -30,13 +25,18 @@
         },
         {
           "name": "React",
-          "class": "devicon-angularjs-plain",
+          "class": "devicon-react-original",
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "80"
         },
         {
           "name": "JavaScript",
@@ -44,24 +44,14 @@
           "level": "70"
         },
         {
-          "name": "get rid of this",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
         },
         {
-          "name": "get rid of this",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "get rid of this",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "85"
         }
       ]
     }
