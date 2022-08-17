@@ -34,11 +34,11 @@ class App extends Component {
         ? window.$secondaryLanguageIconId
         : window.$primaryLanguageIconId;
     document
-      .getElementById(oppositeLangIconId)
-      .removeAttribute("filter", "brightness(40%)");
+      .getElementById(oppositeLangIconId);
+      // .removeAttribute("filter", "brightness(40%)");
     document
-      .getElementById(pickedLangIconId)
-      .setAttribute("filter", "brightness(40%)");
+      .getElementById(pickedLangIconId);
+      // .setAttribute("filter", "brightness(40%)");
   }
 
   componentDidMount = () => {
