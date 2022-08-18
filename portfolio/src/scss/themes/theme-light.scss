@@ -1,7 +1,103 @@
 body[data-theme="light"] {
     @import '/src/scss/light-slider.scss';
  
-    .slider-tab {
-       background-color: #D7CAAA;
+    // .slider-tab {
+    //    background-color: #D7CAAA;
+    // }
+
+    // .title-styles {
+    //     color: white;
+    // }
+  
+    // .header-icon {
+    // color: #3C342C;
+    // opacity: 0.8;
+    // }
+
+    // .slider-image {
+    // border: 5px solid #8C8C8C;
+    // }
+
+    // .language {
+    // // background-color: #E0A5AB;
+    // background-color: #F8D5D5;
+    // }
+
+    // .link-href {
+    // color: white;
+    // }
+
+    // .project-date {
+    // background-color: #3C2C3C;
+    // color: white;
+    // }
+    .nav-item > a{
+        color: #f9f961;
+        font-weight: 500;
+    }
+
+    header {
+    background-color: #c17391;
+    background-image: url('../cover/pretty-nature-pic-from-fb.jpg');
+    background-repeat: no-repeat;
+    h1 {
+        color: white;
+    }
+    .title-container{
+        color: white;
+        font-size: large;
+    }
+    }
+
+    #about {
+    background-color: #fafa9f;
+    // h1 span {
+    //     color: white;
+    // }
+    // .polaroid span {
+    //     background:  #fff8f8;
+    // }
+    // .card {
+    //     background: #fff8f8;
+    // }
+    }
+
+    #portfolio {
+    background: #ffffc9;
+    // .section-title {
+    //     color: white !important;
+    // }
+    .foto div {
+        background: #fff;
+    }
+    // .project-title-settings {
+    //     color: white;
+    // }
+    }
+
+    #resume {
+    // filter: brightness(95%);
+    background: #ffffc9;
+    // .section-title {
+    //     color: white !important;
+    // }
+
+    .experience-badge {
+        background: #067606c7 !important;
+        color: white;
+    }
+
+    .main-badge {
+        background: #713700 !important;
+    }
+
+    // .vertical-timeline-element-date {
+    //     color: white;
+    // }
+
+    .vertical-timeline-element-icon {
+        background: #dba000 !important;
+    }
+
     }
 }
